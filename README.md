@@ -4,7 +4,7 @@
 Build a next-generation multi-lingual virtual customer service solution powered by Large Language models (LLM) and Deep learning algorithms. The goal is to enable seamless, natural communication over the phone, offering quicker query resolution without the limitations of traditional chatbots. Implement sentiment analysis to understand customer emotions better and adjust the agent's responses accordingly, improving the overall experience and service quality. By implementing LLM, Gen AI, IVR, and Text-to-Speech capabilities, **Walmart** can streamline customer support while optimizing costs.
 
 #### Video Demo Link:
-[Video](https://youtu.be/1stubbPNa3Y)
+[Video]([https://youtu.be/1stubbPNa3Y](https://www.youtube.com/watch?v=ajDkF7C_yow])
 
 #### Team: Varta.Ai (Walmart Hackathon 2024)
 - Aditya Garg
